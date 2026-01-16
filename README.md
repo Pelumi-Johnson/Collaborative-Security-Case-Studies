@@ -15,7 +15,7 @@ This presentation analyzes the 2025 AT&T data breach that affected over 86 milli
 
 ## 💰 FBI Seizes $2.4M in Bitcoin – Chaos Ransomware Case Study
 
-![Badge](https://img.shields.io/badge/Incident%20Analysis-Ransomware%20%7C%20Crypto%20Tracing-red?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Incident%20Analysis-Ransomware%20%7C%20Crypto%20Tracing-green?style=for-the-badge)
 
 This presentation analyzes the FBI’s $2.4 million Bitcoin seizure tied to the Chaos ransomware operation.
 
