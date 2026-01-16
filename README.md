@@ -3,6 +3,16 @@ Team-based security labs and joint presentations completed with cohort members, 
 
 ---
 
+## 🧟‍♂️ WannaCry Ransomware Attack (2017) — Case Study Presentation
+
+![Badge](https://img.shields.io/badge/Incident%20Analysis-Ransomware%20%7C%20EternalBlue-red?style=for-the-badge)
+
+An analysis of the 2017 WannaCry ransomware outbreak and its exploitation of unpatched Windows systems.
+
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/UNC2891-Breaches-ATM-Network-via-4G-Raspberry-Pi-Case-Study/tree/main?tab=readme-ov-file)
+
+---
+
 ## 🏧 UNC2891 Breaches ATM Network via 4G Raspberry Pi – Case Study
 
 ![Badge](https://img.shields.io/badge/Incident%20Analysis-Physical%20Intrusion%20%7C%20Advanced%20Malware-yellow?style=for-the-badge)
@@ -25,7 +35,7 @@ This presentation analyzes the FBI’s $2.4 million Bitcoin seizure tied to the 
 
 ## 📉 AT&T 2025 Data Breach – Cloud Supply Chain Case Study
 
-![Badge](https://img.shields.io/badge/Incident%20Analysis-Cloud%20Risk%20%7C%20Identity%20Failure-red?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Incident%20Analysis-Cloud%20Risk%20%7C%20Identity%20Failure-orange?style=for-the-badge)
 
 This presentation analyzes the 2025 AT&T data breach that affected over 86 million customers, highlighting risks introduced by third-party cloud providers and weak identity controls.
 
