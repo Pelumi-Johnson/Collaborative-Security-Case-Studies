@@ -9,7 +9,7 @@ Team-based security labs and joint presentations completed with cohort members, 
 
 An analysis of the 2017 WannaCry ransomware outbreak and its exploitation of unpatched Windows systems.
 
-👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/UNC2891-Breaches-ATM-Network-via-4G-Raspberry-Pi-Case-Study/tree/main?tab=readme-ov-file)
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Wannacry-ransomeware/tree/main)
 
 ---
 
